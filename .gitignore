@@ -1,0 +1,9 @@
+gdb*
+busybox*
+linux*
+rootfs
+tmpdir
+gdbinit
+arm-linux-kernel
+rootfs.ext3
+u-boot*
